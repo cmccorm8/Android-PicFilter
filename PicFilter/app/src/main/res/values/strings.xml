@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PicFilter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="process_image">Process Image</string>
+    <string name="apply_filter">Apply Filter</string>
+</resources>
