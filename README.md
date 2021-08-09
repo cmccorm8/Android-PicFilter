@@ -11,4 +11,4 @@ Information
 ---------------
 This app is an experimentation with Google's MLkit to apply a "filter" to a picture of a person's face. This app takes a 
 picture via a camera intent and gets contour and landmark information of the face in question. The contour and landmark 
-information is then used to apply very simpl filters to the picture.
+information is then used to apply very simple filters to the picture.
